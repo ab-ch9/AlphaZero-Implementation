@@ -1,0 +1,1 @@
+{"self_play": {}, "players": {"O": "Jarvis", "X": "Adam"}, "tournament": {"scores": {"Adam": 1, "drawn": 0, "Jarvis": 0}, "Episodes": 0}}
